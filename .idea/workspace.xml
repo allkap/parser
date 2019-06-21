@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42bb6e15-b199-434a-9c7b-7d53eacdf56f" name="Default Changelist" comment="" />
+    <list default="true" id="42bb6e15-b199-434a-9c7b-7d53eacdf56f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avtoria.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bott.py" beforeDir="false" afterPath="$PROJECT_DIR$/bott.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_avtoria.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_avtoria.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_olx.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_olx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sheets.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,12 +17,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bott.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="-319">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -22,42 +30,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/class_avtoria.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="126" column="52" selection-start-line="126" selection-start-column="52" selection-end-line="126" selection-end-column="52" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="232">
+              <caret line="8" selection-start-line="8" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/creds.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="5" column="51" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/class_olx.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1131">
-              <caret line="46" column="93" selection-start-line="46" selection-start-column="56" selection-end-line="46" selection-end-column="93" />
+            <state relative-caret-position="319">
+              <caret line="56" column="23" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sheets.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -78,6 +69,9 @@
       <find>stat</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -85,25 +79,31 @@
         <option value="$PROJECT_DIR$/avtoria.py" />
         <option value="$PROJECT_DIR$/olx_tel.py" />
         <option value="$PROJECT_DIR$/bot.py" />
-        <option value="$PROJECT_DIR$/class_olx.py" />
-        <option value="$PROJECT_DIR$/bott.py" />
-        <option value="$PROJECT_DIR$/class_avtoria.py" />
         <option value="/run/user/1000/gvfs/sftp:host=185.86.76.225,user=root/root/parser_olx/class_olx.py" />
         <option value="/run/user/1000/gvfs/sftp:host=185.86.76.225,user=root/root/bot_adm/bot_adm.py" />
         <option value="/run/user/1000/gvfs/sftp:host=185.86.76.225,user=root/root/parser_olx/class_avtoria.py" />
+        <option value="$PROJECT_DIR$/config.py" />
+        <option value="$PROJECT_DIR$/class_avtoria.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/bott.py" />
+        <option value="/run/user/1000/gvfs/sftp:host=185.16.41.126,user=root/root/parser/bott.py" />
+        <option value="/run/user/1000/gvfs/sftp:host=185.16.41.126,user=root/root/parser/class_avtoria.py" />
+        <option value="$PROJECT_DIR$/class_olx.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="y" value="-1" />
-    <option name="width" value="1920" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="996" />
+    <option name="width" value="863" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,11 +115,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bot_adm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -219,6 +218,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="class_avtoria (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="parser" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/run/user/1000/gvfs/sftp:host=185.16.41.126,user=root/root/parser" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="/run/user/1000/gvfs/sftp:host=185.16.41.126,user=root/root/parser/class_avtoria.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="class_avtoria" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="parser" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -244,9 +264,11 @@
       <item itemvalue="Python.bott" />
       <item itemvalue="Python.avtoria.py" />
       <item itemvalue="Python.class_avtoria" />
+      <item itemvalue="Python.class_avtoria (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.class_avtoria (1)" />
         <item itemvalue="Python.class_avtoria" />
       </list>
     </recent_temporary>
@@ -265,14 +287,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1920" height="1040" extended-state="4" />
+    <frame x="0" y="-1" width="1920" height="1040" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17488076" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1499735" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.13816534" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.03444317" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -287,13 +310,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../bot_adm/bot_adm.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
@@ -313,16 +329,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/avtoria.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#21#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Загрузки/Telegram Desktop/olx_tel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
@@ -334,16 +340,8 @@
     <entry file="file:///run/user/1000/gvfs/sftp:host=185.86.76.225,user=root/root/bot_adm/bot_adm.py" />
     <entry file="file:///run/user/1000/gvfs/sftp:host=185.86.76.225,user=root/root/parser_olx/class_olx.py" />
     <entry file="file:///run/user/1000/gvfs/sftp:host=185.86.76.225,user=root/root/parser_olx/class_avtoria.py" />
-    <entry file="file://$PROJECT_DIR$/bott.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py" />
+    <entry file="file://$PROJECT_DIR$/sheets.py" />
     <entry file="file://$PROJECT_DIR$/creds.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -351,23 +349,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class_olx.py">
+    <entry file="file://$PROJECT_DIR$/avtoria.py" />
+    <entry file="file://$PROJECT_DIR$/telegram-calendar-keyboard/bot_example.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file:///run/user/1000/gvfs/sftp:host=185.16.41.126,user=root/root/parser/bott.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1131">
-          <caret line="46" column="93" selection-start-line="46" selection-start-column="56" selection-end-line="46" selection-end-column="93" />
+        <state relative-caret-position="-29">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///run/user/1000/gvfs/sftp:host=185.16.41.126,user=root/root/parser/class_avtoria.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sheets.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/bott.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-319">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/class_avtoria.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="126" column="52" selection-start-line="126" selection-start-column="52" selection-end-line="126" selection-end-column="52" />
+        <state relative-caret-position="232">
+          <caret line="8" selection-start-line="8" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_olx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="56" column="23" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>

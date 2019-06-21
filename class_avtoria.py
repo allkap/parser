@@ -138,7 +138,8 @@ class Bot_avt:
         co.add_argument('--disable-dev-shm-usage')
         co.add_extension(pluginfile)
 
-        self.driver = webdriver.Chrome("/home/dan/project/parser/chromedriver", chrome_options=co)
+        self.driver = webdriver.Chrome("/home/dan/project/parser/chromedriver",
+                      chrome_options=co)
 
         self.navigate()
         display.stop()

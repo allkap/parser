@@ -2,11 +2,10 @@ from class_olx import *
 from class_avtoria import *
 import telebot
 from class_avtoria import state_dict
-from config import token
-import zipfile
+import os
+print(os.environ.get('token_parse'))
+bot = telebot.TeleBot('744742501:AAHs4ssq38kGDTrGT60BZrUg3MBnAIW1Wjg')
 
-
-bot = telebot.TeleBot(token)
 
 rubrick_url ={'Транспорт':'transport','Автобусы':'avtobusy','Прицепы / дома на колесах':'pritsepy-doma-na-kolesah','Автозапчасти и аксессуары':'avtozapchasti-i-aksessuary','Мотозапчасти и аксессуары':'motozapchasti-i-aksessuary','Шины, диски и колёса':'shiny-diski-i-kolesa','Запчасти для спец техники':'zapchasti-dlya-spets-sh-tehniki','Прочие запчасти':'prochie-zapchasti','Сельхозтехника':'selhoztehnika','Автомобили из Польши':'avtomobili-iz-polshi','Водный Транспорт':'vodnyy-transport','Грузовые автомобили':'gruzovye-avtomobili','Спецтехника':'spetstehnika','Мото':'moto','Недвижемость':'nedvizhimost', 'Услуги':'uslugi','Запчасти для транспорта':'zapchasti-dlya-transporta','Электроника':'elektronika'}
 region_url ={"Херсон":'khe', 'Одесса':'od','Винница':'vin','Волынская область':'vol','Днепропетровск':'dnp','Житомир':'zht','Ивано-Франковск':'if','Киев':'ko','Николаев':'nikolaev_106'}

@@ -6,6 +6,11 @@ from random import randint
 from oauth2client.service_account import ServiceAccountCredentials
 import gspread
 from selenium.webdriver.support import expected_conditions as EC
+from pyvirtualdisplay import Display
+from selenium.webdriver.chrome.options import Options
+import os
+
+
 
 
 
@@ -34,20 +39,23 @@ class Bot_olx():
         self.rub = choose_rub
         self.reg = choose_reg
 
+        pluginfile = 'proxy_auth_plugin.zip'
 
 
-        # PROXY = '176.107.186.83:8000'
-        chrome_options = webdriver.ChromeOptions()
-        # chrome_options.add_argument('--headless')
-        # chrome_options.add_argument('--no-sandbox')
-        # chrome_options.add_argument('--disable-dev-shm-usage')
-        # chrome_options.add_argument('--proxy-server=socks5://%s' % PROXY)
+
+        display = Display(visible=0, size=(1024, 740))
+        display.start()
 
 
-        self.driver = webdriver.Chrome(executable_path='/home/dan/project/parser/chromedriver', chrome_options=chrome_options)
+        co = Options()
+        co.add_argument('--no-sandbox')
+        co.add_argument('--disable-dev-shm-usage')
+        co.add_extension(pluginfile)
+
+
+        self.driver = webdriver.Chrome(executable_path=os.path.abspath('chromedriver'), chrome_options=co)
         self.navigate()
-
-
+        display.stop()
     def navigate(self):
         list_links = []
 
